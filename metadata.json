@@ -1,0 +1,6 @@
+{
+  "name": "Multimodal Attendance & Engagement Agent",
+  "description": "AI-powered, privacy-preserving classroom intelligence system integrating computer vision, audio processing, sustained attendance tracking, and teaching suggestions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
